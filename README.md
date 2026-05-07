@@ -25,7 +25,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Frontend
@@ -35,17 +35,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### 🤖 AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy" />
 </p>
 
 ---
